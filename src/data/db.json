@@ -1,8 +1,82 @@
 {
-    "usuarios": [
-        
+    "users": [
+        {
+            "id": 1,
+            "name": "Juan Pérez",
+            "phoneNumber": "+5234567890",
+            "password": "contraseña123",
+            "profileImageUrl": "https://i.pinimg.com/564x/c9/9f/be/c99fbe930b1f8ab38834c17ad0f1144e.jpg",
+            "flag": true,
+            "userInfo": "Si sabes lo que eres y lo que vales, no tienes nada que demostrar"
+        },
+        {
+            "id": 2,
+            "name": "María Rodríguez",
+            "phoneNumber": "+5287654321",
+            "password": "qwerty123",
+            "profileImageUrl": "https://i.pinimg.com/564x/99/22/3d/99223d7fa6c38db4cd696a355f3e5f91.jpg",
+            "flag": false,
+            "userInfo": "No te enamores de sus palabras, enamorate de sus acciones",
+            "lastOnline": "2024-02-29T12:00:00Z"
+        },
+        {
+            "id": 3,
+            "name": "Francisco Vitery",
+            "phoneNumber": "+5744654321",
+            "password": "dinero123",
+            "profileImageUrl": "https://assets.entrepreneur.com/content/3x2/2000/1602095756-millonario.jpg",
+            "flag": false,
+            "userInfo": "La clave del exito es la constancia",
+            "lastOnline": "2024-02-29T12:00:00Z"
+        }
     ],
-    "mensajes": [
-
+    "messages": [
+        {
+            "senderUser": 1,
+            "recipientUser": 2,
+            "conversations": [
+                {
+                    "sendBy": 1,
+                    "date": "2024-02-28",
+                    "hour": "13:45",
+                    "message": "Hola, te gustaria ir a comer elote a donde doña Juana?",
+                    "flag": true
+                },
+                {
+                    "sendBy": 2,
+                    "date": "2024-02-28",
+                    "hour": "14:21",
+                    "message": "Amor, no. Me duele la cabeza",
+                    "flag": true
+                },
+                {
+                    "sendBy": 1,
+                    "date": "2024-02-28",
+                    "hour": "14:21",
+                    "message": "Esta bien, que te mejores :c",
+                    "flag": false
+                }
+            ]
+        },
+        {
+            "senderUser": 2,
+            "recipientUser": 3,
+            "conversations": [
+                {
+                    "sendBy": 2,
+                    "date": "2024-02-28",
+                    "hour": "14:22",
+                    "message": "Que onda, bb? Si, si nos vamos a ver",
+                    "flag": true
+                },
+                {
+                    "sendBy": 3,
+                    "date": "2024-02-28",
+                    "hour": "14:23",
+                    "message": "Dale, mi reina. Paso por vos",
+                    "flag": true
+                }
+            ]
+        }
     ]
 }
