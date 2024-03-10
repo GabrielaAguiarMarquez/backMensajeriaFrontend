@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Juan Pérez",
-            "phoneNumber": "+5234567890",
+            "phoneNumber": "34567890",
             "password": "contraseña123",
             "profileImageUrl": "https://i.pinimg.com/564x/c9/9f/be/c99fbe930b1f8ab38834c17ad0f1144e.jpg",
             "flag": true,
@@ -12,7 +12,7 @@
         {
             "id": 2,
             "name": "María Rodríguez",
-            "phoneNumber": "+5287654321",
+            "phoneNumber": "87654321",
             "password": "qwerty123",
             "profileImageUrl": "https://i.pinimg.com/564x/99/22/3d/99223d7fa6c38db4cd696a355f3e5f91.jpg",
             "flag": false,
@@ -22,7 +22,7 @@
         {
             "id": 3,
             "name": "Francisco Vitery",
-            "phoneNumber": "+5744654321",
+            "phoneNumber": "44654321",
             "password": "dinero123",
             "profileImageUrl": "https://assets.entrepreneur.com/content/3x2/2000/1602095756-millonario.jpg",
             "flag": false,
