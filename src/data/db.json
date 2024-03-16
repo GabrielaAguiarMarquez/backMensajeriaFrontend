@@ -28,6 +28,16 @@
             "flag": false,
             "userInfo": "La clave del exito es la constancia",
             "lastOnline": "2024-02-29T12:00:00Z"
+        },
+        {
+            "id": 4,
+            "name": "User Test",
+            "phoneNumber": "1231234567",
+            "password": "HolaMundo2",
+            "profileImageUrl": "https://assets.entrepreneur.com/content/3x2/2000/1602095756-millonario.jpg",
+            "flag": false,
+            "userInfo": "La clave del exito es la constancia",
+            "lastOnline": "2024-02-29T12:00:00Z"
         }
     ],
     "messages": [
@@ -76,6 +86,27 @@
                     "date": "2024-02-28",
                     "hour": "14:23",
                     "message": "Dale, mi reina. Paso por vos",
+                    "flag": true
+                }
+            ]
+        },
+        {
+            "idConversation": 3,
+            "senderUser": 4,
+            "recipientUser": 7,
+            "conversations": [
+                {
+                    "sendBy": 4,
+                    "date": "2024-02-28",
+                    "hour": "14:22",
+                    "message": "Holaaa, que tal?",
+                    "flag": true
+                },
+                {
+                    "sendBy": 7,
+                    "date": "2024-02-28",
+                    "hour": "14:23",
+                    "message": "Todo bien",
                     "flag": true
                 }
             ]
