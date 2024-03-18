@@ -31,12 +31,22 @@
         },
         {
             "id": 4,
-            "name": "User Test",
+            "name": "Don pepito",
             "phoneNumber": "1231234567",
             "password": "HolaMundo2",
             "profileImageUrl": "https://assets.entrepreneur.com/content/3x2/2000/1602095756-millonario.jpg",
             "flag": false,
             "userInfo": "La clave del exito es la constancia",
+            "lastOnline": "2024-02-29T12:00:00Z"
+        },
+        {
+            "id": 5,
+            "name": "Don Jose",
+            "phoneNumber": "1231234567",
+            "password": "HolaMundo3",
+            "profileImageUrl": "https://assets.entrepreneur.com/content/3x2/2000/1602095756-millonario.jpg",
+            "flag": false,
+            "userInfo": "La clave del exito es la sabiduria",
             "lastOnline": "2024-02-29T12:00:00Z"
         }
     ],
@@ -93,7 +103,7 @@
         {
             "idConversation": 3,
             "senderUser": 4,
-            "recipientUser": 7,
+            "recipientUser": 5,
             "conversations": [
                 {
                     "sendBy": 4,
@@ -103,7 +113,7 @@
                     "flag": true
                 },
                 {
-                    "sendBy": 7,
+                    "sendBy": 5,
                     "date": "2024-02-28",
                     "hour": "14:23",
                     "message": "Todo bien",
