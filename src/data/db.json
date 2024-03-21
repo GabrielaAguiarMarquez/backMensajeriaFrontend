@@ -6,7 +6,7 @@
             "phoneNumber": "34567890",
             "password": "contraseña123",
             "profileImageUrl": "https://i.pinimg.com/564x/c9/9f/be/c99fbe930b1f8ab38834c17ad0f1144e.jpg",
-            "flag": true,
+            "flag": false,
             "userInfo": "Si sabes lo que eres y lo que vales, no tienes nada que demostrar"
         },
         {
@@ -21,12 +21,12 @@
         },
         {
             "id": 3,
-            "name": "Francisco Vitery",
-            "phoneNumber": "44654321",
-            "password": "dinero123",
+            "name": "Franciscoo Vitery",
+            "phoneNumber": "4465432154",
+            "password": "dinero1234",
             "profileImageUrl": "https://assets.entrepreneur.com/content/3x2/2000/1602095756-millonario.jpg",
             "flag": false,
-            "userInfo": "La clave del exito es la constancia",
+            "userInfo": "La clave del exito es la constanciaa",
             "lastOnline": "2024-02-29T12:00:00Z"
         },
         {
@@ -47,6 +47,16 @@
             "profileImageUrl": "https://assets.entrepreneur.com/content/3x2/2000/1602095756-millonario.jpg",
             "flag": false,
             "userInfo": "La clave del exito es la sabiduria",
+            "lastOnline": "2024-02-29T12:00:00Z"
+        },
+        {
+            "id": 6,
+            "name": "Capybara",
+            "phoneNumber": "1231634564",
+            "password": "HolaMundo8",
+            "profileImageUrl": "https://assets.entrepreneur.com/content/3x2/2000/1602095756-millonario.jpg",
+            "flag": false,
+            "userInfo": "La clave del exito es la perseverancia",
             "lastOnline": "2024-02-29T12:00:00Z"
         }
     ],
